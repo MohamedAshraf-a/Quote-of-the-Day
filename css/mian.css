@@ -1,0 +1,17 @@
+body{
+    background-image: url("../img/freddie-marriage-40251-unsplash.jpg");
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+
+
+
+}
+
+
+.containerM{
+    margin-top: 10%;
+}
+
